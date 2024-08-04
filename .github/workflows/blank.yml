@@ -15,3 +15,8 @@ jobs:
           feed_list: https://une-tasse-de.cafe/index.xml
           committer_email: 41898282+github-actions[bot]@users.noreply.github.com
           committer_username: GitHub Actions[Bot]
+
+      - name: Copy README
+        run: mkdir profile && cp ./README.md ./profile/README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
