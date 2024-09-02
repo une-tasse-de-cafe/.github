@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [GoAuthentik de A à Y](https://une-tasse-de.cafe/blog/goauthentik/)
-- [Le Dygma Defy, mon premier clavier split](https://une-tasse-de.cafe/blog/dygma-defy/)
-- [Istio de A à Y](https://une-tasse-de.cafe/blog/istio/)
-- [Une infrastructure VPN hybride avec Headscale](https://une-tasse-de.cafe/blog/headscale-hybrid/)
-- [Awtrix Ulanzi + Domotique = ❤️](https://une-tasse-de.cafe/blog/awtrix3-ulanzi-home-assistant/)
+- [Créer des clusters virtuels via vCluster](/expresso/vcluster/)
+- [Créer des signatures d&#39;images Docker avec cosign](/expresso/cosign/)
+- [GoAuthentik de A à Y](/blog/goauthentik/)
+- [Le Dygma Defy, mon premier clavier split](/blog/dygma-defy/)
+- [Istio de A à Y](/blog/istio/)
 <!-- BLOG-POST-LIST:END -->
