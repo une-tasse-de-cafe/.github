@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [NATS de A à Y](/blog/nats/)
 - [Créer des clusters virtuels via vCluster](/expresso/vcluster/)
 - [Créer des signatures d&#39;images Docker avec cosign](/expresso/cosign/)
 - [GoAuthentik de A à Y](/blog/goauthentik/)
 - [Le Dygma Defy, mon premier clavier split](/blog/dygma-defy/)
-- [Istio de A à Y](/blog/istio/)
 <!-- BLOG-POST-LIST:END -->
