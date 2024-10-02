@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubelet conteneurisé : elles sont où mes données ?](/expresso/kubelet-mount/)
 - [Talos et les disques externes](/expresso/local-pv/)
 - [NATS de A à Y](/blog/nats/)
 - [Créer des clusters virtuels via vCluster](/expresso/vcluster/)
 - [Créer des signatures d&#39;images Docker avec cosign](/expresso/cosign/)
-- [GoAuthentik de A à Y](/blog/goauthentik/)
 <!-- BLOG-POST-LIST:END -->
