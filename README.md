@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Manifesto](https://une-tasse-de.cafe/ai/)
 - [Kubelet conteneurisé : elles sont où mes données ?](https://une-tasse-de.cafe/expresso/kubelet-mount/)
 - [Talos et les disques externes](https://une-tasse-de.cafe/expresso/local-pv/)
 - [NATS de A à Y](https://une-tasse-de.cafe/blog/nats/)
 - [Créer des clusters virtuels via vCluster](https://une-tasse-de.cafe/expresso/vcluster/)
-- [Créer des signatures d&#39;images Docker avec cosign](https://une-tasse-de.cafe/expresso/cosign/)
 <!-- BLOG-POST-LIST:END -->
