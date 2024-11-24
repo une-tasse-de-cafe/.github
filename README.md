@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Déchiffrer à distance un volume LUKS](https://une-tasse-de.cafe/expresso/dropbear-luks/)
 - [AI Manifesto](https://une-tasse-de.cafe/ai/)
 - [Kubelet conteneurisé : elles sont où mes données ?](https://une-tasse-de.cafe/expresso/kubelet-mount/)
 - [Talos et les disques externes](https://une-tasse-de.cafe/expresso/local-pv/)
 - [NATS de A à Y](https://une-tasse-de.cafe/blog/nats/)
-- [Créer des clusters virtuels via vCluster](https://une-tasse-de.cafe/expresso/vcluster/)
 <!-- BLOG-POST-LIST:END -->
