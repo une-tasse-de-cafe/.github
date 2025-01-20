@@ -11,7 +11,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ma retrospective 2024](https://une-tasse-de.cafe/blog/retro-2024/)
 - [Déchiffrer à distance un volume LUKS](https://une-tasse-de.cafe/expresso/dropbear-luks/)
+- [Faire une installation custom sur un serveur dédié OVH](https://une-tasse-de.cafe/expresso/dedicated-server/)
 - [AI Manifesto](https://une-tasse-de.cafe/ai/)
 - [Kubelet conteneurisé : elles sont où mes données ?](https://une-tasse-de.cafe/expresso/kubelet-mount/)
-- [Talos et les disques externes](https://une-tasse-de.cafe/expresso/local-pv/)
 <!-- BLOG-POST-LIST:END -->
