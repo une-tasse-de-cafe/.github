@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Créer son propre opérateur Kubernetes](https://une-tasse-de.cafe/blog/operator/)
 - [Ma retrospective 2024](https://une-tasse-de.cafe/blog/retro-2024/)
 - [Déchiffrer à distance un volume LUKS](https://une-tasse-de.cafe/expresso/dropbear-luks/)
 - [Faire une installation custom sur un serveur dédié OVH](https://une-tasse-de.cafe/expresso/dedicated-server/)
 - [AI Manifesto](https://une-tasse-de.cafe/ai/)
-- [Kubelet conteneurisé : elles sont où mes données ?](https://une-tasse-de.cafe/expresso/kubelet-mount/)
 <!-- BLOG-POST-LIST:END -->
