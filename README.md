@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Vous voulez un blog ? C&#39;est comme si c&#39;était fait !](https://une-tasse-de.cafe/expresso/get-a-blog/)
 - [Cluster API + Talos + Proxmox = ❤️](https://une-tasse-de.cafe/blog/talos-capi-proxmox/)
 - [Créer son propre opérateur Kubernetes](https://une-tasse-de.cafe/blog/operator/)
 - [Ma retrospective 2024](https://une-tasse-de.cafe/blog/retro-2024/)
 - [Déchiffrer à distance un volume LUKS](https://une-tasse-de.cafe/expresso/dropbear-luks/)
-- [Faire une installation custom sur un serveur dédié OVH](https://une-tasse-de.cafe/expresso/dedicated-server/)
 <!-- BLOG-POST-LIST:END -->
