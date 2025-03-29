@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Évolution de mon homelab - MiniRack](https://une-tasse-de.cafe/blog/minirack/)
+- [AI Manifesto](https://une-tasse-de.cafe/ai/)
 - [Rook chiffré et kubelet conteneurisé, kamoulox ?](https://une-tasse-de.cafe/expresso/rook-kubelet-mount/)
 - [Vous voulez un blog ? C&#39;est comme si c&#39;était fait !](https://une-tasse-de.cafe/expresso/get-a-blog/)
 - [Cluster API + Talos + Proxmox = ❤️](https://une-tasse-de.cafe/blog/talos-capi-proxmox/)
-- [Créer son propre opérateur Kubernetes](https://une-tasse-de.cafe/blog/operator/)
-- [Ma retrospective 2024](https://une-tasse-de.cafe/blog/retro-2024/)
 <!-- BLOG-POST-LIST:END -->
