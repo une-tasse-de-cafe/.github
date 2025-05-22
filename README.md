@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Customiser Talos avec des extensions](https://une-tasse-de.cafe/blog/talos-ext/)
-- [Omni et Kubevirt](https://une-tasse-de.cafe/blog/omni/)
-- [Évolution de mon homelab - MiniRack](https://une-tasse-de.cafe/blog/minirack/)
-- [AI Manifesto](https://une-tasse-de.cafe/ai/)
-- [Rook chiffré et kubelet conteneurisé, kamoulox ?](https://une-tasse-de.cafe/expresso/rook-kubelet-mount/)
+- [Customiser Talos avec des extensions](/blog/talos-ext/)
+- [Omni et Kubevirt](/blog/omni/)
+- [Évolution de mon homelab - MiniRack](/blog/minirack/)
+- [AI Manifesto](/ai/)
+- [Rook chiffré et kubelet conteneurisé, kamoulox ?](/expresso/rook-kubelet-mount/)
 <!-- BLOG-POST-LIST:END -->
