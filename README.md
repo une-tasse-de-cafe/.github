@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [SPIFFE et mTLS avec cert-manager](/blog/spiffe/)
 - [Customiser Talos avec des extensions](/blog/talos-ext/)
 - [Omni et Kubevirt](/blog/omni/)
 - [Évolution de mon homelab - MiniRack](/blog/minirack/)
 - [AI Manifesto](/ai/)
-- [Rook chiffré et kubelet conteneurisé, kamoulox ?](/expresso/rook-kubelet-mount/)
 <!-- BLOG-POST-LIST:END -->
