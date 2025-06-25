@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [SPIFFE et mTLS avec cert-manager](https://une-tasse-de.cafe/blog/spiffe/)
-- [Customiser Talos avec des extensions](https://une-tasse-de.cafe/blog/talos-ext/)
-- [Omni et Kubevirt](https://une-tasse-de.cafe/blog/omni/)
-- [Évolution de mon homelab - MiniRack](https://une-tasse-de.cafe/blog/minirack/)
-- [AI Manifesto](https://une-tasse-de.cafe/ai/)
+- [SPIFFE et mTLS avec cert-manager](/blog/spiffe/)
+- [Customiser Talos avec des extensions](/blog/talos-ext/)
+- [Omni et Kubevirt](/blog/omni/)
+- [Évolution de mon homelab - MiniRack](/blog/minirack/)
+- [AI Manifesto](/ai/)
 <!-- BLOG-POST-LIST:END -->
