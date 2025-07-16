@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes API-Server avec plusieurs IdP &lpar;et Github Actions&rpar;](/blog/apiserver-multi-idp/)
 - [SPIFFE et mTLS avec cert-manager](/blog/spiffe/)
 - [Customiser Talos avec des extensions](/blog/talos-ext/)
 - [Omni et Kubevirt](/blog/omni/)
 - [Évolution de mon homelab - MiniRack](/blog/minirack/)
-- [AI Manifesto](/ai/)
 <!-- BLOG-POST-LIST:END -->
