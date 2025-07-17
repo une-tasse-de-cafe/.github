@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes API-Server avec plusieurs IdP &lpar;et Github Actions&rpar;](/blog/apiserver-multi-idp/)
-- [SPIFFE et mTLS avec cert-manager](/blog/spiffe/)
-- [Customiser Talos avec des extensions](/blog/talos-ext/)
-- [Omni et Kubevirt](/blog/omni/)
-- [Évolution de mon homelab - MiniRack](/blog/minirack/)
+- [Kubernetes API-Server avec plusieurs IdP &lpar;et Github Actions&rpar;](https://une-tasse-de.cafe/blog/apiserver-multi-idp/)
+- [SPIFFE et mTLS avec cert-manager](https://une-tasse-de.cafe/blog/spiffe/)
+- [Customiser Talos avec des extensions](https://une-tasse-de.cafe/blog/talos-ext/)
+- [Omni et Kubevirt](https://une-tasse-de.cafe/blog/omni/)
+- [Évolution de mon homelab - MiniRack](https://une-tasse-de.cafe/blog/minirack/)
 <!-- BLOG-POST-LIST:END -->
