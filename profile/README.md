@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Bootc et OSTree : Moderniser le déploiement des systèmes Linux](/blog/ostree-bootc/)
-- [Créer des snapshots de volumes persistants &lpar;avec Rook&rpar;](/expresso/snapshot-class/)
-- [Kubernetes API-Server avec plusieurs IdP &lpar;et Github Actions&rpar;](/blog/apiserver-multi-idp/)
-- [SPIFFE et mTLS avec cert-manager](/blog/spiffe/)
-- [Customiser Talos avec des extensions](/blog/talos-ext/)
+- [Bootc et OSTree : Moderniser le déploiement des systèmes Linux](https://une-tasse-de.cafe/blog/ostree-bootc/)
+- [Créer des snapshots de volumes persistants &lpar;avec Rook&rpar;](https://une-tasse-de.cafe/expresso/snapshot-class/)
+- [Kubernetes API-Server avec plusieurs IdP &lpar;et Github Actions&rpar;](https://une-tasse-de.cafe/blog/apiserver-multi-idp/)
+- [SPIFFE et mTLS avec cert-manager](https://une-tasse-de.cafe/blog/spiffe/)
+- [Customiser Talos avec des extensions](https://une-tasse-de.cafe/blog/talos-ext/)
 <!-- BLOG-POST-LIST:END -->
