@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Un cluster full IPv6 avec Talos](/blog/talos-ipv6/)
 - [Kairos, l&#39;OS immutable pour déployer Kubernetes](/blog/kairos/)
 - [Bootc et OSTree : Moderniser le déploiement des systèmes Linux](/blog/ostree-bootc/)
 - [Créer des snapshots de volumes persistants &lpar;avec Rook&rpar;](/expresso/snapshot-class/)
 - [Kubernetes API-Server avec plusieurs IdP &lpar;et Github Actions&rpar;](/blog/apiserver-multi-idp/)
-- [SPIFFE et mTLS avec cert-manager](/blog/spiffe/)
 <!-- BLOG-POST-LIST:END -->
