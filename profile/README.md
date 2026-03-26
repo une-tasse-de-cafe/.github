@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Fault : injecter du chaos dans vos microservices](/blog/fault/)
-- [Avoir son ASN personnel pour annoncer ses IPs sur Internet](/blog/bgp-kubernetes/)
-- [Un cluster full IPv6 avec Talos](/blog/talos-ipv6/)
-- [Kairos, l&#39;OS immutable pour déployer Kubernetes](/blog/kairos/)
-- [Bootc et OSTree : Moderniser le déploiement des systèmes Linux](/blog/ostree-bootc/)
+- [Fault : injecter du chaos dans vos microservices](https://une-tasse-de.cafe/blog/fault/)
+- [Avoir son ASN personnel pour annoncer ses IPs sur Internet](https://une-tasse-de.cafe/blog/bgp-kubernetes/)
+- [Un cluster full IPv6 avec Talos](https://une-tasse-de.cafe/blog/talos-ipv6/)
+- [Kairos, l&#39;OS immutable pour déployer Kubernetes](https://une-tasse-de.cafe/blog/kairos/)
+- [Bootc et OSTree : Moderniser le déploiement des systèmes Linux](https://une-tasse-de.cafe/blog/ostree-bootc/)
 <!-- BLOG-POST-LIST:END -->
