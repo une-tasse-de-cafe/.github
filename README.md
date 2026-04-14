@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Mon expérience pour devenir Kubestronaut](https://une-tasse-de.cafe/blog/kubestronaut/)
 - [Podman avec des Quadlets + GitOps avec Materia](https://une-tasse-de.cafe/blog/podlet/)
 - [talosctl-oidc : ajouter le SSO à Talos Linux](https://une-tasse-de.cafe/blog/talosctl-oidc/)
 - [CRD ou APIService : comment étendre l&#39;API Kubernetes ?](https://une-tasse-de.cafe/blog/crd-vs-apiservice/)
 - [Fault : injecter du chaos dans vos microservices](https://une-tasse-de.cafe/blog/fault/)
-- [Avoir son ASN personnel pour annoncer ses IPs sur Internet](https://une-tasse-de.cafe/blog/bgp-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
