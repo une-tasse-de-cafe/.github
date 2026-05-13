@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Mise + Krew : vos plugins kubectl en mode déclaratif](https://une-tasse-de.cafe/expresso/mise-krew/)
 - [Kloak : injection de secrets en kernel-space via eBPF sur Kubernetes](https://une-tasse-de.cafe/blog/kloak/)
 - [Mon expérience pour devenir Kubestronaut](https://une-tasse-de.cafe/blog/kubestronaut/)
 - [Podman avec des Quadlets + GitOps avec Materia](https://une-tasse-de.cafe/blog/podlet/)
 - [talosctl-oidc : ajouter le SSO à Talos Linux](https://une-tasse-de.cafe/blog/talosctl-oidc/)
-- [CRD ou APIService : comment étendre l&#39;API Kubernetes ?](https://une-tasse-de.cafe/blog/crd-vs-apiservice/)
 <!-- BLOG-POST-LIST:END -->
