@@ -9,9 +9,9 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [OVHcloud Secret Manager + External Secrets Operator : gérer ses secrets Kubernetes](https://une-tasse-de.cafe/expresso/ovh-secret-manager-eso/)
 - [Karpenter + Cluster API](https://une-tasse-de.cafe/blog/karpenter-capi-ovh/)
 - [Mise + Krew : vos plugins kubectl en mode déclaratif](https://une-tasse-de.cafe/expresso/mise-krew/)
 - [Kloak : injection de secrets en kernel-space via eBPF sur Kubernetes](https://une-tasse-de.cafe/blog/kloak/)
 - [Mon expérience pour devenir Kubestronaut](https://une-tasse-de.cafe/blog/kubestronaut/)
-- [Podman avec des Quadlets + GitOps avec Materia](https://une-tasse-de.cafe/blog/podlet/)
 <!-- BLOG-POST-LIST:END -->
